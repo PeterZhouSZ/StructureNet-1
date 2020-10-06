@@ -9,8 +9,6 @@ An easy to use depth sensor extrinsics calibration method. It is integrated and 
 [![Conference](http://img.shields.io/badge/IEEEVR-2020-blue.svg?style=plastic)](http://ieeevr.org/2020/)
 [![Project Page](http://img.shields.io/badge/Project-Page-blueviolet.svg?style=plastic)](https://vcl3d.github.io/StructureNet/)
 
-## Intro
-
 <img src="data/snapshot00.png" width="24%"> <img src="data/snapshot01.png" width="24%"> <img src="data/snapshot02.png" width="24%"> <img src="data/snapshot03.png" width="24%">
 
 ## Requirements
